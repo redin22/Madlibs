@@ -1,0 +1,10 @@
+#story{
+  display: none;
+}
+
+.paint{
+  background-color: skyblue;
+  border-radius: 30px;
+  border-style: groove;
+  font-family: monospace;
+}
